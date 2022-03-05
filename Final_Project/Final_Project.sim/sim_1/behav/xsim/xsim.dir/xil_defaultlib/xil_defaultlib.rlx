@@ -1,0 +1,16 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/Digital_design/projects/Final_Project/Final_Project.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sim_1/new/camera_tb.v,1646309098,verilog,,,,camera_configure_tb,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sim_1/new/tob_tb.v,1646253609,verilog,,,,top_tb,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/OV_rom.v,1646308913,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/Out_Ram.v,,OV7670_config_rom,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/Out_Ram.v,1646251482,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/Robert_Controller.v,,out_ram,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/Robert_Controller.v,1646312368,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/Robert_Filter.v,,ropert_controller,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/Robert_Filter.v,1646251514,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/camera_con.v,,robert_filter,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/camera_con.v,1646309053,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/memory.v,,camera_configure,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/memory.v,1639603394,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/ov_con.v,,rom_memory,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/ov_con.v,1646308947,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/sccb.v,,OV7670_config,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/sccb.v,1646308977,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/top.v,,SCCB_interface,,,,,,,,
+D:/Digital_design/projects/Final_Project/Final_Project.srcs/sources_1/new/top.v,1646312047,verilog,,D:/Digital_design/projects/Final_Project/Final_Project.srcs/sim_1/new/tob_tb.v,,top,,,,,,,,

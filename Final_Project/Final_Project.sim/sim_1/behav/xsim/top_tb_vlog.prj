@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Final_Project.srcs/sources_1/new/OV_rom.v" \
+"../../../../Final_Project.srcs/sources_1/new/Out_Ram.v" \
+"../../../../Final_Project.srcs/sources_1/new/Robert_Controller.v" \
+"../../../../Final_Project.srcs/sources_1/new/Robert_Filter.v" \
+"../../../../Final_Project.srcs/sources_1/new/camera_con.v" \
+"../../../../Final_Project.srcs/sources_1/new/memory.v" \
+"../../../../Final_Project.srcs/sources_1/new/ov_con.v" \
+"../../../../Final_Project.srcs/sources_1/new/sccb.v" \
+"../../../../Final_Project.srcs/sources_1/new/top.v" \
+"../../../../Final_Project.srcs/sim_1/new/tob_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
